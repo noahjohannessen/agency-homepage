@@ -78,6 +78,7 @@ function Hero() {
             businesses. Fixing what's broken, building what's needed, and setting businesses up for success.
           </p>
           <div className="hero-actions">
+            <a className="btn btn-ghost" href="#portfolio">Portfolio</a>
             <a className="btn btn-primary" href=${smsHref}>Send Me a Text</a>
             <a className="btn btn-ghost" href=${linkedInUrl} target="_blank" rel="noreferrer noopener"
               >LinkedIn</a
