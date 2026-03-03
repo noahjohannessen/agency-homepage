@@ -74,7 +74,7 @@ function Hero() {
           <p className="eyebrow">Independent Consultant</p>
           <h1>I Help Local Businesses Get Found Online and Turn Visitors Into Clients</h1>
           <p className="lead">
-            I studied Computer Science at Texas A&M and now I work directly with small service
+            I studied Computer Science at Texas A&M and now I work directly with service
             businesses. Fixing what's broken, building what's needed, and setting businesses up for success.
           </p>
           <div className="hero-actions">
